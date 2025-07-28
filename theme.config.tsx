@@ -1,6 +1,5 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
-import { FaLinkedin } from 'react-icons/fa'
 
 const config: DocsThemeConfig = {
   logo: <span>Guillaume Deflandre</span>,
