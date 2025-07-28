@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Guillaume Deflandre</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/guideflandre/guillaume.deflandre-docs',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://www.linkedin.com/in/guillaume-deflandre-ab6747228/?locale=en_US&trk=people-guest_people_search-card',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/guideflandre/guillaume.deflandre-docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Guillaume Deflandre Documentation',
   },
 }
 
