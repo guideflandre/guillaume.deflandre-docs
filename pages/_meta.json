@@ -1,6 +1,5 @@
 {
   "index": "Hi there.",
-  "another": "Another Page",
   "publications": {
     "title": "Publications"},
   "about": {
@@ -10,7 +9,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://www.linkedin.com/in/guillaume-deflandre-ab6747228/?locale=en_US&trk=people-guest_people_search-card",
     "newWindow": true
   }
 }
