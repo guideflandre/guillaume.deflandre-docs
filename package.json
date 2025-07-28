@@ -1,22 +1,22 @@
 {
-  "name": "nextra-docs-template",
+  "name": "guillaume.deflandre-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Description of Guillaume Deflandre status",
   "scripts": {
-    "dev": "next dev",
+    "dev": "Guillaume Deflandre",
     "build": "next build",
     "start": "next start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/guideflandre/my-id.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Guillaume Deflandre <guillaume.deflandre@uclouvain.be>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/guideflandre/guillaume.deflandre-docs/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/guideflandre/guillaume.deflandre-docs#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
