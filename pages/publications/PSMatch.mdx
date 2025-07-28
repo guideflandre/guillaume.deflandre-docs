@@ -1,9 +1,25 @@
-# PSMatch: an R/Bioconductor package to explore proteomics identification data.
+# [PSMatch: an R/Bioconductor package to explore proteomics identification data.](https://osf.io/preprints/osf/62v9p_v1)
 
+We present the R/Bioconductor PSMatch package, that helps proteomics practitioners to load,
+manage and handle peptide spectrum matches. It provides functions to model peptide-protein 
+relations, visualise these as graphs and make informed decisions about shared peptide filtering. 
+The package also provides functions to calculate fragments and, in conjunction with the Spectra 
+package, annotate and visualise MS2 scans.
+
+## Installation
+
+Open an R environment and run the following code chunk:
 
 ```r
 if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 
 BiocManager::install("PSMatch")
+library(PSMatch)
 ```
+## Cite me
+
+```r
+citation("PSMatch")
+```
+
