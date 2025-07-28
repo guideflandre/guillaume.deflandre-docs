@@ -1,7 +1,8 @@
 {
   "index": "Hi there.",
   "another": "Another Page",
-  "publications-index": "Publications",
+  "publications": {
+    "title": "Publications"},
   "about": {
     "title": "About",
     "type": "page"
