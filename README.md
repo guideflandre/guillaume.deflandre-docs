@@ -1,3 +1,6 @@
+# Find me:
+https://guillaume-deflandre-docs.vercel.app/
+
 # Nextra Docs Template 
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
